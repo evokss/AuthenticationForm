@@ -2,6 +2,8 @@
 
 ## Authentication form ##
 
+Deploy: [Click Me](https://evokss.github.io/AuthenticationForm/)
+
 This project is a simple authentication form that allows users to log in by entering their email and password. <br>
 It features a clean, responsive design using Bootstrap and custom CSS. 
 
