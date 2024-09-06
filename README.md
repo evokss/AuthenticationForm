@@ -13,3 +13,5 @@ It features a clean, responsive design using Bootstrap and custom CSS.
 > * Simulates server interaction using a mock API request with JavaScript.
 
 </details>
+
+<img src="screenshots/auth-form.jpg" alt="auth-form" style="width: 500px;"><br>
